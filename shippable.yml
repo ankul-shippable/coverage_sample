@@ -18,8 +18,7 @@ env:
     - SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_9=this_is_a_long_value_this_is_a_long_value_this_is_a_long_value_this_is_a_long_value
     - SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_10=this_is_a_long_value_this_is_a_long_value_this_is_a_long_value_this_is_a_long_value
     - SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_SOME_LONG_ENVS_11=this_is_a_long_value_this_is_a_long_value_this_is_a_long_value_this_is_a_long_value
- 
- matrix:
+  matrix:
     - Matrix=m1
     - Matrix=m2
     - Matrix=m3

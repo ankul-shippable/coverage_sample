@@ -205,3 +205,4 @@ env:
 build:
   ci:
     - printenv
+    - echo "true"

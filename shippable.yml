@@ -3,6 +3,10 @@ language: java
 jdk:
   - oraclejdk8
 
+env:
+  - Matrix=m1
+  - Matrix=m2  
+
 build:
   advancedReporting: true
   ci:

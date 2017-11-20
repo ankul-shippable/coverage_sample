@@ -15,3 +15,4 @@ build:
     - mkdir -p shippable/codecoverage
     # - mvn install
     - cp -r target shippable/codecoverage
+    - echo "true"

@@ -5,7 +5,7 @@ jdk:
 
 env:
   - Matrix=m1
-  - Matrix=m2  
+  #- Matrix=m2  
 
 build:
   advancedReporting: true
